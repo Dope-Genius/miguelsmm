@@ -54,7 +54,7 @@ body {
 @media only screen and (max-width: 780px) {
   .hero {
     display: block;
-    padding: 2rem 4rem;
+    padding: 2rem 3rem;
   }
 }
 
@@ -79,7 +79,7 @@ body {
 
 @media only screen and (max-width: 780px) {
   .hero-heading {
-    font-size: 3.5rem;  }
+    font-size: 4rem;  }
 }
 
 /* @media only screen and (max-width: 780px) {
@@ -231,7 +231,7 @@ body {
 
 @media only screen and (max-width: 780px) {
   .about-us {
-    padding: 2rem 4rem;
+    padding: 2rem 3rem;
   }
 }
 
@@ -368,7 +368,7 @@ footer {
 .footer-text {
   font-size: 1.4rem;
   font-family: var(--light-font);
-  font-weight: bold;
+  font-weight: 300;
 }
 
 @media only screen and (max-width: 780px) {
